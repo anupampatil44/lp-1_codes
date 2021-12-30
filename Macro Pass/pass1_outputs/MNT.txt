@@ -1,0 +1,7 @@
+name	M1
+#PP	2
+#KP	2
+#EV	1
+#MDTP	1
+#KPDTP	1
+#SSTP	1
